@@ -101,7 +101,7 @@ clean_up() {
 trap 'clean_up' EXIT
 
 # Sourcing bashrc
-source ~/.bashrc
+source ~/.bashrc || true
 
 prepare_queue_files_tmp() {
 
@@ -124,8 +124,8 @@ fi
 
 
 # Preparing the temporary controlfile
-export VF_CONTROLFILE_TEMP=${VF_TMPDIR}/${USER}/VFLP/${VF_JOBLETTER}/${VF_QUEUE_NO_12}/controlfile
-mkdir -p ${VF_TMPDIR}/${USER}/VFLP/${VF_JOBLETTER}/${VF_QUEUE_NO_12}/
+export VF_CONTROLFILE_TEMP=${VF_TMPDIR}/${USER}/VFVS/${VF_JOBLETTER}/${VF_QUEUE_NO_12}/controlfile
+mkdir -p ${VF_TMPDIR}/${USER}/VFVS/${VF_JOBLETTER}/${VF_QUEUE_NO_12}/
 cp ${VF_CONTROLFILE} ${VF_CONTROLFILE_TEMP}
 
 # Setting and exporting variables

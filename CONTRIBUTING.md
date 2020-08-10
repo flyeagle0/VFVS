@@ -1,3 +1,5 @@
+## How to contribute to VirtualFlow
+
 #### Table of Contents
 
 - [Introduction](#introduction)
@@ -15,8 +17,8 @@
         - [Development Process](#development-process)
         - [Testing](#testing)
         - [Style Guidelines](#style-guidelines)
-- [Questions](#questions)
 - [Links](#links) -->
+- [Contact](#contact)
 
 
 ### Introduction
@@ -30,18 +32,16 @@ VirtuaFlow is an open source project and we love to receive contributions from o
 
 ### Code of Conduct
 
-This project and everyone participating in it is governed by the Atom Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to atom@github.com.
-
 We aspire to create a welcoming environment for collaboration on this project. To that end, we follow the [Contributor Covenant Code of Conduct Code](CODE_OF_CONDUCT.md). Please read and follow it if you would like to become a contributor to our project.
 
 
-### Important Resources
+### Resources
 
 The following gives an overview of the various resources related to VirtualFlow:
 
 - [Homepage of VirtualFlow](https://virtual-flow.org/)
 - [The documentation of VirtualFlow](https://docs.virtual-flow.org/documentation/-LdE8RH9UN4HKpckqkX3/)
-- [Tutorials for VirtualFlow](https://docs.virtual-flow.org/tutorials/-LdE94b2AVfBFT72zK-v/)
+- [Tutorials for VirtualFlow](https://virtual-flow.org/tutorials)
 - [Feature Requests (powered by Canny)](http://feedback.virtual-flow.org/feature-requests)
 - [GitHub Issue Tracker for VFVS](https://github.com/VirtualFlow/VFVS/issues)
 - [GitHub Issue Tracker for VFLP](https://github.com/VirtualFlow/VFLP/issues)
@@ -64,17 +64,17 @@ Bug reports can be done via our GitHub issue tracker:
 
 #### Improving/Extending the Documentation
 
-If you would like to extend the documenation, please contact Christoph Gorgulla (cgorgulla@g.harvard.edu) for futher coordination.
+If you would like to extend the documenation, please contact us for futher coordination.
 
 
 #### Improving/Extending the Tutorials
 
-If you would like to improve/extend the tutorials, please contact Christoph Gorgulla (cgorgulla@g.harvard.edu) for futher coordination.
+If you would like to improve/extend the tutorials, please contact us for futher coordination.
 
 
 #### Resolution of One of the GitHub Issues
 
-If you would like to help to resolve the issues coming up in our issue trackers, please contact Christoph Gorgulla (cgorgulla@g.harvard.edu) for futher coordination.
+If you would like to help to resolve the issues coming up in our issue trackers, please contactus for futher coordination.
 
 
 #### Contributing Code
@@ -95,7 +95,9 @@ Working on your first Pull Request? You can learn how from this free series:
 
 ##### Style Guidelines 
 
-### Questions
-
 ### Links
 -->
+
+### Contact
+
+If you have any questions, or would to get in touch with us, please contact Christoph Gorgulla (cgorgulla@g.harvard.edu).
